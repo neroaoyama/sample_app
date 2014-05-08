@@ -1,4 +1,8 @@
-== Welcome to Rails
+# Ruby on Rails チュートリアル：サンプルアプリケーション
+
+これは、以下のためのサンプルアプリケーションです。
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.jp/)
+by [Michael Hartl](http://michaelhartl.com/).
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
@@ -252,10 +256,4 @@ script
 
 test
   Unit and functional tests along with fixtures. When using the rails generate
-  command, template test files will be generated for you and placed in this
-  directory.
-
-vendor
-  External libraries that the application depends on. Also includes the plugins
-  subdirectory. If the app has frozen rails, those gems also go here, under
-  vendor/rails/. This directory is in the load path.
+  command, template test 
